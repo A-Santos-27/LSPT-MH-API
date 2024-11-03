@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\controllers\\urlshortenerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:controllers\\urlshortenerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\dtos\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:dtos\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\entities\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:entities\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\mappings\\urlshortenermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:mappings\\urlshortenermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\services\\interfaces\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:services\\interfaces\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B276F4-3DEA-4FFB-B707-AD863CA991EB}|..\\UrlShortenerAPI.Tests\\UrlShortenerAPI.Tests.csproj|c:\\users\\alber\\source\\repos\\urlshortenerapi.tests\\urlshortenerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\lspt-mh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:lspt-mh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|c:\\users\\alber\\source\\repos\\lspt-mh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B5B5D05-75F1-4B70-86A5-8B39F0CDBBE6}|LSPT-MH.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "URLShortenerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\UrlShortenerAPI.Tests\\URLShortenerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortenerAPI.Tests\\URLShortenerServiceTests.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\UrlShortenerAPI.Tests\\URLShortenerServiceTests.cs",
+              "RelativeToolTip": "..\\UrlShortenerAPI.Tests\\URLShortenerServiceTests.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwGcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:43:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LSPT-MH.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\LSPT-MH.csproj",
+              "RelativeDocumentMoniker": "LSPT-MH.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\LSPT-MH.csproj",
+              "RelativeToolTip": "LSPT-MH.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T05:39:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T05:25:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateShortUrlDto.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\DTOs\\CreateShortUrlDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateShortUrlDto.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\DTOs\\CreateShortUrlDto.cs",
+              "RelativeToolTip": "DTOs\\CreateShortUrlDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:23:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "URLShortenerMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Mappings\\URLShortenerMappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\URLShortenerMappingProfile.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Mappings\\URLShortenerMappingProfile.cs",
+              "RelativeToolTip": "Mappings\\URLShortenerMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:22:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IURLShortenerService.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Services\\Interfaces\\IURLShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IURLShortenerService.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Services\\Interfaces\\IURLShortenerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IURLShortenerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:21:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlShortenerAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Controllers\\UrlShortenerAPI.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrlShortenerAPI.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Controllers\\UrlShortenerAPI.cs",
+              "RelativeToolTip": "Controllers\\UrlShortenerAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:16:23.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "URLShortenerService.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Services\\URLShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\URLShortenerService.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Services\\URLShortenerService.cs",
+              "RelativeToolTip": "Services\\URLShortenerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:11:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:36:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T04:35:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\DBContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DBContext\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\DBContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DBContext\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:19:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "URL.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Entities\\URL.cs",
+              "RelativeDocumentMoniker": "Entities\\URL.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\LSPT-MH\\Entities\\URL.cs",
+              "RelativeToolTip": "Entities\\URL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:17:44.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
